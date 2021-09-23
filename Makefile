@@ -1,5 +1,5 @@
 PKG_NAME := libcst
-URL = https://files.pythonhosted.org/packages/76/86/ff8b8dea37db946f939c65fea222b597e0513af00a8eaa68ca72c66c5844/libcst-0.3.20.tar.gz
+URL = https://files.pythonhosted.org/packages/54/9c/0b58d9e905f80090394af8e84ae8d9e0fda90e5ebbccbf44263b8b1d4b5f/libcst-0.3.21.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
