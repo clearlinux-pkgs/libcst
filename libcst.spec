@@ -4,7 +4,7 @@
 #
 Name     : libcst
 Version  : 0.3.21
-Release  : 6
+Release  : 7
 URL      : https://files.pythonhosted.org/packages/54/9c/0b58d9e905f80090394af8e84ae8d9e0fda90e5ebbccbf44263b8b1d4b5f/libcst-0.3.21.tar.gz
 Source0  : https://files.pythonhosted.org/packages/54/9c/0b58d9e905f80090394af8e84ae8d9e0fda90e5ebbccbf44263b8b1d4b5f/libcst-0.3.21.tar.gz
 Summary  : A concrete syntax tree with AST-like properties for Python 3.5, 3.6, 3.7 and 3.8 programs.
