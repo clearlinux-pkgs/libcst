@@ -1,0 +1,5 @@
+0.3.23
+pypi(dataclasses)
+pypi(pyyaml)
+pypi(typing_extensions)
+pypi(typing_inspect)
